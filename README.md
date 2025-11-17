@@ -2,8 +2,6 @@
 
 Submitted by: **Yushan Cheng**
 
-This web app: **insert description**
-
 Time spent: **5** hours spent in total
 
 ## Required Features
